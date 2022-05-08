@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=113s
 https://www.youtube.com/watch?v=lZp4salRFFc
 
 **JS**
-https://www.youtube.com/watch?v=jS4aFq5-91M&t=7496s
+https://www.youtube.com/watch?v=jS4aFq5-91M&t=7496s <br>
 https://www.youtube.com/watch?v=PkZNo7MFNFg
 
 **TS**
@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=ImtZ5yENzgE
 https://www.youtube.com/watch?v=KJgsSFOSQv0
 
 **C++**
-https://www.youtube.com/watch?v=vLnPwxZdW4Y
+https://www.youtube.com/watch?v=vLnPwxZdW4Y <br>
 https://www.youtube.com/watch?v=8jLOx1hD3_o&t=49649s
 
 **C#**
@@ -94,7 +94,7 @@ https://www.youtube.com/watch?v=c0k9ieKky7Q
 https://www.youtube.com/watch?v=pBNOavRoNL0
 
 **Binary**
-https://www.youtube.com/watch?v=fAAZixBzIAI
+https://www.youtube.com/watch?v=fAAZixBzIAI <br>
 https://www.youtube.com/watch?v=ApLDjfBPhVk
 
 **Cypress**
