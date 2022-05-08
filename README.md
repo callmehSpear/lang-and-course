@@ -4,62 +4,98 @@ This repo will help everyone learn every single lang out there and framework.
 
 **Git and GitHub**
 
+*GitHub and Git makes it easy to open source and share code.*
+
 https://www.youtube.com/watch?v=RGOj5yH7evk - 1h
 
+**NPM**
+
+*Node Package Manager lets people share packages which makes development faster.*
+
+https://www.youtube.com/watch?v=cjoTTSbOuG0 - 1h
+
 **HTML**
+
+*HTML is the barebones of all websites. With basic HTML you can create a simple website, although CSS, PHP and JS are reuqired to make it functional and looking good.*
 
 https://www.youtube.com/watch?v=pQN-pnXPaVg&t=7s - 2h
 
 **CSS**
 
+*CSS adds onto HTML which customises HTML.*
+
 https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=113s - 6h
 
 **Tailwind**
 
+*Tailwind is a simple way to use CSS with class names.*
+
 https://www.youtube.com/watch?v=lZp4salRFFc - 2h
 
 **JS**
+
+*Javascript is one of the most popular langs, for making websites functional and in recent years even more.*
 
 https://www.youtube.com/watch?v=jS4aFq5-91M&t=7496s - 7h<br>
 https://www.youtube.com/watch?v=PkZNo7MFNFg - 3h
 
 **TS**
 
+*Typescript is basically JS but better.*
+
 https://www.youtube.com/watch?v=gp5H0Vw39yw - 1h
 
 **Electron**
+
+*Electron lets you create universal dekstop apps with HTML.*
 
 https://www.youtube.com/watch?v=2RxHQoiDctI
 
 **Node JS**
 
+*Node JS is ran on the server and manages data stuff etc.*
+
 https://www.youtube.com/watch?v=Oe421EPjeBE
 
 **PHP**
+
+*PHP makes more function to websites.*
 
 https://www.youtube.com/watch?v=OK_JCtrrv-c
 
 **React**
 
+*React is a JS framework to create websites in.*
+
 https://www.youtube.com/watch?v=DLX62G4lc44
 
 **GO**
+
+*Go is for general purpose programming.*
 
 https://www.youtube.com/watch?v=YS4e4q9oBaU
 
 **Python**
 
+*Python is a very powerful but easy to learn lang for machine learning and much more.*
+
 https://www.youtube.com/watch?v=rfscVS0vtbw
 
 **Rust**
+
+*Rust is blazingly fast and memory-efficient: with no runtime or garbage collector*
 
 https://www.youtube.com/watch?v=MsocPEZBd-M
 
 **Lua**
 
+*Lua is a lightweight lang for general use, but mainly used in games which people can add new stuff into, for example Roblox with their own Luau lang.*
+
 https://www.youtube.com/watch?v=1srFmjt1Ib0
 
 **Laravel**
+
+*Open Source PHP Framework.*
 
 https://www.youtube.com/watch?v=ImtZ5yENzgE
 
