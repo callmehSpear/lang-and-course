@@ -20,8 +20,7 @@ https://www.youtube.com/watch?v=lZp4salRFFc
 
 **JS**
 
-https://www.youtube.com/watch?v=jS4aFq5-91M&t=7496s
-
+https://www.youtube.com/watch?v=jS4aFq5-91M&t=7496s <br>
 https://www.youtube.com/watch?v=PkZNo7MFNFg
 
 **TS**
@@ -127,8 +126,7 @@ https://www.youtube.com/watch?v=pBNOavRoNL0
 
 **Binary**
 
-https://www.youtube.com/watch?v=fAAZixBzIAI
-
+https://www.youtube.com/watch?v=fAAZixBzIAI <br>
 https://www.youtube.com/watch?v=ApLDjfBPhVk
 
 **Cypress**
