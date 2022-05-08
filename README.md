@@ -4,28 +4,28 @@ This repo will help everyone learn every single lang out there and framework.
 
 **Git and GitHub**
 
-https://www.youtube.com/watch?v=RGOj5yH7evk
+https://www.youtube.com/watch?v=RGOj5yH7evk - 1h
 
 **HTML**
 
-https://www.youtube.com/watch?v=pQN-pnXPaVg&t=7s
+https://www.youtube.com/watch?v=pQN-pnXPaVg&t=7s - 2h
 
 **CSS**
 
-https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=113s
+https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=113s - 6h
 
 **Tailwind**
 
-https://www.youtube.com/watch?v=lZp4salRFFc
+https://www.youtube.com/watch?v=lZp4salRFFc - 2h
 
 **JS**
 
-https://www.youtube.com/watch?v=jS4aFq5-91M&t=7496s <br>
-https://www.youtube.com/watch?v=PkZNo7MFNFg
+https://www.youtube.com/watch?v=jS4aFq5-91M&t=7496s - 7h<br>
+https://www.youtube.com/watch?v=PkZNo7MFNFg - 3h
 
 **TS**
 
-https://www.youtube.com/watch?v=gp5H0Vw39yw
+https://www.youtube.com/watch?v=gp5H0Vw39yw - 1h
 
 **Electron**
 
